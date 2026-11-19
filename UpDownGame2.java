@@ -2,6 +2,15 @@
 import java.util.Random;
 import java.util.Scanner;
 
+// 테스트 주석 
+// 테스트 주석 
+// 테스트 주석 
+// 테스트 주석 
+// 테스트 주석 
+// 테스트 주석 
+// 테스트 주석 
+// 테스트 주석 
+
 public class UpDownGame {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
